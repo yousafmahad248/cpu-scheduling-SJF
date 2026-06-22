@@ -1,0 +1,6 @@
+{
+  "name": "SJF CPU Scheduling Simulator",
+  "description": "An interactive, beautiful full-stack simulator for Shortest Job First (SJF) CPU scheduling, supporting both preemptive (SRTF) and non-preemptive modes, Gantt charts, real-time walkthroughs, and performance dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
